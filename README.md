@@ -1,8 +1,2 @@
-# 1st
-# 1
-# 1
-# 2nd
-# 2nd
-# 2nd
-# 3rd
 2021210988
+stnonsense
